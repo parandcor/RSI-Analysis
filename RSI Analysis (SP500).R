@@ -12,7 +12,7 @@ library(tidyr)
 library(gridExtra)
 
 # Variables
-history         <- 5  # Years of historical data
+history         <- 12 # Years of historical data
 overboughtLevel <- 70 # Level where you think we will have an overbought situation
 oversoldLevel   <- 30 # Level where you think we will have an oversold situation
 
